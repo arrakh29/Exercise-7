@@ -59,3 +59,6 @@ Proyek ini menunjukkan pentingnya kontrol akses resource dalam sistem multitaski
 
 ## **Diagram System**
 <img src="system%20task%20diagram7.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+
+## Uji Coba
+<img src="Ex_7.gif" alt="Uji Coba GIF" style="max-width: 600px; height: auto">
